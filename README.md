@@ -1,16 +1,32 @@
-## Hi there 👋
+<!-- Title & quick intro -->
+<h1 align="center">Hi, I'm Zeynel 👋</h1>
+<p align="center">
+  Software Engineer · MSc Student
+</p>
 
-<!--
-**ZeynelTok/ZeynelTok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Badges (tech stack, socials, contact) -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zeyneltok&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <a href="https://www.linkedin.com/in/zeynel-tok/"><img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="25" height="25"></a>
+</p>
 
-Here are some ideas to get you started:
+### 👤 About Me
+- 🎓 MSc Software Engineering @ Oxford
+- 💼 Software Engineer in FinTech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Main skills
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,aws,java,js,postgres,github,eclipse,nodejs,react)](https://skillicons.dev)
+
+### 🚧 Current projects
+
+### 📌 Featured repos
+
+
+### 📊 Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeyneltok&layout=compact&theme=highcontrast&hide_border=true">
+</p>
+
+### 🧠 Recent writing
+
+### 🔗 Elsewhere
