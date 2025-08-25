@@ -24,7 +24,7 @@
 
 ### 📊 Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeyneltok&layout=compact&theme=highcontrast&hide_border=true">
+  <img src="https:/github-readme-stats-zeyneltok-clone.vercel.app/api/top-langs/?username=zeyneltok&layout=compact&theme=highcontrast&hide_border=true">
 </p>
 
 ### 🧠 Recent writing
