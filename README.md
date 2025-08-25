@@ -11,21 +11,45 @@
 </p>
 
 ### 👤 About Me
+Hi, I'm Zeynel, I work on numerous small tools and projects that mostly never see the light of day **or** aren't public & open source (yet). Software Engineer by day, and a curious developer by night, experimenting and exploring new ideas.
 - 🎓 MSc Software Engineering @ Oxford
 - 💼 Software Engineer in FinTech
 
-### 🛠️ Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,aws,java,js,postgres,github,eclipse,nodejs,react)](https://skillicons.dev)
 
-### 🚧 Current projects
+
+### 🚧 Currently Working On
+- Computer Vision Projects - Object Tracking
+- Building and Maintaining **ApprentEase** Tech, Including Our **Website** and **Apprenticeship Finder**
+- Creating a Portfolio Site
 
 ### 📌 Featured repos
 
+### 🛠️ My Toolbox
+[![Core stack](https://skillicons.dev/icons?i=py,pytorch,aws,gcp,postgres,java,js,react,nodejs&perline=10)](https://skillicons.dev)
 
-### 📊 Stats
-<p>
-  <img src="https:/github-readme-stats.vercel.app/api/top-langs/?username=zeyneltok&layout=compact&theme=highcontrast&hide_border=true">
-</p>
+**Also use:** 
+![Ext JS](https://img.shields.io/badge/Ext%20JS-3B4252?style=flat&logo=sencha&logoColor=81A1C1)
+![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-3B4252?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-3B4252?style=flat&logo=jupyter&logoColor=D08770)
+
+### 📊 Language Stats
+
+<table>
+  <tr>
+    <td align="center"><strong>Public Repos</strong></td>
+    <td align="center"><strong>All Repos</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <img alt="Top languages (public)" 
+           src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeyneltok&layout=compact&theme=highcontrast&hide_border=true" />
+    </td>
+    <td>
+      <img alt="Top languages (all)" 
+           src="https://github-readme-stats-clone-seven.vercel.app/api/top-langs/?username=zeyneltok&layout=compact&theme=highcontrast&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 ### 🧠 Recent writing
 
