@@ -42,7 +42,7 @@ Hi, I'm Zeynel, I work on numerous small tools and projects that mostly never se
   <tr>
     <td>
       <img alt="Top languages (public)" 
-           src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeyneltok&layout=compact&theme=highcontrast&hide_border=true" />
+           src="https://github-stats-extended.vercel.app/api/top-langs?username=ZeynelTok&layout=compact&langs_count=6&theme=highcontrast&hide_border=true" />
     </td>
     <td>
       <img alt="Top languages (all)" 
