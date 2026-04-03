@@ -15,23 +15,6 @@ Hi, I'm Zeynel, I work on numerous small tools and projects that mostly never se
 - 🎓 MSc Software Engineering @ Oxford
 - 💼 Software Engineer in FinTech
 
-
-
-### 🚧 Currently Working On
-- Computer Vision Projects - Object Tracking
-- Building and Maintaining **ApprentEase** Tech, Including Our **Website** and **Apprenticeship Finder**
-- Creating a Portfolio Site
-
-### 📌 Featured repos
-
-### 🛠️ My Toolbox
-[![Core stack](https://skillicons.dev/icons?i=py,pytorch,aws,gcp,postgres,java,js,react,nodejs&perline=10)](https://skillicons.dev)
-
-**Also use:** 
-![Ext JS](https://img.shields.io/badge/Ext%20JS-3B4252?style=flat&logo=sencha&logoColor=81A1C1)
-![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-3B4252?style=flat&logo=microsoftsqlserver&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-3B4252?style=flat&logo=jupyter&logoColor=D08770)
-
 ### 📊 Language Stats
 
 <table>
@@ -51,6 +34,6 @@ Hi, I'm Zeynel, I work on numerous small tools and projects that mostly never se
   </tr>
 </table>
 
-### 🧠 Recent writing
+### 🔗 Find Me Elsewhere
 
-### 🔗 Elsewhere
+- [LinkedIn](https://www.linkedin.com/in/zeynel-tok)
